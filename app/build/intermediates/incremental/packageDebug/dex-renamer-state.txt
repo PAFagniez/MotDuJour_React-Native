@@ -1,0 +1,7 @@
+#Mon May 01 10:53:42 CEST 2017
+base.0=D\:\\Mot Du Jour\\MotDuJour\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3bad391250378f0c5a871dc5d2e8485b8ec3be05
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Mot Du Jour\\MotDuJour\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3bcdd4cc50884229402b4f67fb34ec698bf73b9d\\classes.dex
+base.1=D\:\\Mot Du Jour\\MotDuJour\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3bcdd4cc50884229402b4f67fb34ec698bf73b9d
+file.0=D\:\\Mot Du Jour\\MotDuJour\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3bad391250378f0c5a871dc5d2e8485b8ec3be05\\classes.dex
